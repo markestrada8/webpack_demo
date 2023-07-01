@@ -1,0 +1,16 @@
+{
+  "name": "webpack_follow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "keywords": [],
+  "author": "Mark Estrada <markestrada8@gmail.com> (https://www.npmjs.com/settings/markestrada8/profile)",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
